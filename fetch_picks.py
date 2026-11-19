@@ -1,5 +1,5 @@
 import re, json, sys
-from urllib.parse import urlparse, parse_qs
+from urllib.parse import urlparse, parse_qs, quote_plus
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 import requests
@@ -80,10 +80,19 @@ def resolve(url):
     return url
 
 
+def day_feeds():
+    out = []
+    for i in range(DAYS + 2):
+        d = datetime.now(timezone.utc) - timedelta(days=i)
+        q = '"Trade Spotlight" "on %s %d" moneycontrol' % (d.strftime("%B"), d.day)
+        out.append("https://www.bing.com/news/search?q=" + quote_plus(q) + "&format=rss&cc=IN&setlang=en-IN")
+    return out
+
+
 def discover():
     cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS)
     seen, items = set(), []
-    for feed in FEEDS:
+    for feed in FEEDS + day_feeds():
         try:
             r = requests.get(feed, headers=UA, timeout=30)
             print("feed", r.status_code, feed[:70])
@@ -111,10 +120,12 @@ def main():
     items = discover()
     print("articles found:", len(items))
     picks = []
+    rows = []
     for it in items:
         url = resolve(it["link"])
         if not url or "moneycontrol.com" not in url:
             print("skip (no real moneycontrol link):", it["title"][:50])
+            rows.append("%s | NO LINK (%s) | %s" % (it["date"], urlparse(url or it["link"]).netloc, it["title"][30:60]))
             continue
         try:
             r = requests.get(url, headers=UA, timeout=30)
@@ -128,6 +139,10 @@ def main():
         got = parse_article(text, {**it, "link": url})
         print("  picks:", len(got), "| stock headers:", len(STOCK.findall(text)), "| Strategy lines:", len(CALL.findall(text)), "| chars:", len(text))
         picks += got
+        rows.append("%s | picks %d | headers %d | strategy %d | %s" % (it["date"], len(got), len(STOCK.findall(text)), len(CALL.findall(text)), it["title"][30:60]))
+    print("=== SUMMARY ===")
+    for row in sorted(rows):
+        print(row)
     best = {}
     for p in sorted(picks, key=lambda x: x["date"], reverse=True):
         best.setdefault((p["stock"].lower(), p["call"]), p)
