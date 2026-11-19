@@ -16,10 +16,10 @@ FEEDS = [
     "https://news.google.com/rss/search?q=%22Trade+Spotlight%22+site:moneycontrol.com+when:10d&hl=en-IN&gl=IN&ceid=IN:en",
 ]
 NUM = r"\d+(?:,\d+)*(?:\.\d+)?"
-STOCK = re.compile(r"([^\n|()]{2,60}?)\s*[|(]\s*CMP\s*:?\s*Rs\.?\s*(" + NUM + ")", re.I)
+STOCK = re.compile(r"([^\n|]{2,70}?)\s*[|(]\s*CMP\s*:?\s*(?:Rs\.?|₹)?\s*(" + NUM + ")", re.I)
 CALL = re.compile(r"Strategy\s*:?\s*(Buy|Sell)", re.I)
-TGT = re.compile(r"Target\s*:?\s*((?:Rs\.?\s*)?" + NUM + r"(?:\s*,\s*(?:Rs\.?\s*)?" + NUM + ")*)", re.I)
-SL = re.compile(r"Stop[- ]?Loss\s*:?\s*(?:Rs\.?\s*)?(" + NUM + ")", re.I)
+TGT = re.compile(r"Targets?(?:\s*price)?\s*:?\s*((?:Rs\.?\s*|₹\s*)?" + NUM + r"(?:\s*,\s*(?:Rs\.?\s*|₹\s*)?" + NUM + ")*)", re.I)
+SL = re.compile(r"Stop[- ]?Loss\s*:?\s*(?:Rs\.?\s*|₹\s*)?(" + NUM + ")", re.I)
 PER = re.compile(r"(\d+\s*(?:-|–|to)\s*\d+|\d+)\s*(trading days|trading sessions|days|sessions|weeks|months)|short[- ]term|medium[- ]term|long[- ]term|positional|swing", re.I)
 ROLE = re.compile(r"Research|Analyst|Technical|Derivatives|Head|Manager|President|Founder|Strategist|Director|CMT", re.I)
 FIRM = re.compile(r"\b(?:at|of|with)\s+([A-Z][A-Za-z&\.\- ]{2,50})\s*$")
@@ -45,9 +45,10 @@ def parse_article(text, meta):
         end = ms[i + 1].start() if i + 1 < len(ms) else len(text)
         seg = text[m.end():end]
         c, t, s = CALL.search(seg), TGT.search(seg), SL.search(seg)
-        if not (c and t):
-            continue
         name = re.sub(r"^\s*\d+\.\s*", "", m.group(1)).strip(" :-")
+        if not (c and t):
+            print("  SKIPPED:", name[:40], "| call found:", bool(c), "| target found:", bool(t))
+            continue
         p = PER.search(seg)
         firm = [e for e in experts if e[0] < m.start()]
         out.append({
@@ -125,7 +126,7 @@ def main():
             print("  fetch error", e)
             continue
         got = parse_article(text, {**it, "link": url})
-        print("  picks:", len(got), "| chars:", len(text), "| has CMP:", "CMP" in text, "| has Strategy:", "Strategy" in text)
+        print("  picks:", len(got), "| stock headers:", len(STOCK.findall(text)), "| Strategy lines:", len(CALL.findall(text)), "| chars:", len(text))
         picks += got
     best = {}
     for p in sorted(picks, key=lambda x: x["date"], reverse=True):
