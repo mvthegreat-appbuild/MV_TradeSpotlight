@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T06:39:01.903556+00:00",
+ "updated": "2026-11-19T06:52:19.778221+00:00",
  "days": 10,
- "articles": 11,
+ "articles": 13,
  "picks": [
   {
    "stock": "State Bank of India",
@@ -245,6 +245,123 @@
    "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
   },
   {
+   "stock": "Alicon Castalloy",
+   "cmp": 976.15,
+   "call": "BUY",
+   "targets": [
+    1100.0,
+    1180.0
+   ],
+   "stop_loss": 900.0,
+   "period": "3-5 weeks",
+   "broker": "Axis Direct",
+   "date": "2026-11-16",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+  },
+  {
+   "stock": "Ramkrishna Forgings",
+   "cmp": 784.7,
+   "call": "BUY",
+   "targets": [
+    850.0,
+    900.0
+   ],
+   "stop_loss": 745.0,
+   "period": "4-5 months",
+   "broker": "Axis Direct",
+   "date": "2026-11-16",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+  },
+  {
+   "stock": "Pine Labs",
+   "cmp": 176.44,
+   "call": "BUY",
+   "targets": [
+    195.0,
+    205.0
+   ],
+   "stop_loss": 165.0,
+   "period": null,
+   "broker": "Axis Direct",
+   "date": "2026-11-16",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+  },
+  {
+   "stock": "Kwality Walls India",
+   "cmp": 42.01,
+   "call": "BUY",
+   "targets": [
+    48.3
+   ],
+   "stop_loss": 39.5,
+   "period": null,
+   "broker": "Teji Mandi",
+   "date": "2026-11-16",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+  },
+  {
+   "stock": "Lloyds Engineering Works",
+   "cmp": 89.25,
+   "call": "BUY",
+   "targets": [
+    96.0
+   ],
+   "stop_loss": 86.5,
+   "period": null,
+   "broker": "Teji Mandi",
+   "date": "2026-11-16",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+  },
+  {
+   "stock": "Indus Towers",
+   "cmp": 396.0,
+   "call": "BUY",
+   "targets": [
+    425.0
+   ],
+   "stop_loss": 385.0,
+   "period": null,
+   "broker": "Teji Mandi",
+   "date": "2026-11-16",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+  },
+  {
+   "stock": "Acutaas Chemicals",
+   "cmp": 4039.1,
+   "call": "BUY",
+   "targets": [
+    4500.0,
+    4530.0
+   ],
+   "stop_loss": 3768.0,
+   "period": "Swing",
+   "broker": "Angel One",
+   "date": "2026-11-16",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+  },
+  {
+   "stock": "GE Vernova T&D India",
+   "cmp": 4420.0,
+   "call": "BUY",
+   "targets": [
+    4700.0,
+    4800.0
+   ],
+   "stop_loss": 4000.0,
+   "period": "Swing",
+   "broker": "Angel One",
+   "date": "2026-11-16",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+  },
+  {
    "stock": "Phoenix Mills",
    "cmp": 2292.0,
    "call": "BUY",
@@ -357,6 +474,105 @@
    "date": "2026-11-13",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
    "title": "Trade Spotlight: How should you trade Phoenix Mills, Paytm, Radico Khaitan, JK Tyre, Marksans Pharma, and others on November 13?"
+  },
+  {
+   "stock": "Devyani International",
+   "cmp": 132.03,
+   "call": "BUY",
+   "targets": [
+    145.0
+   ],
+   "stop_loss": 124.0,
+   "period": "Short-term",
+   "broker": "Jainam",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+  },
+  {
+   "stock": "Fertilizers and Chemicals Travancore",
+   "cmp": 813.25,
+   "call": "BUY",
+   "targets": [
+    880.0
+   ],
+   "stop_loss": 770.0,
+   "period": "Swing",
+   "broker": "Jainam",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+  },
+  {
+   "stock": "Sky Gold and Diamonds",
+   "cmp": 983.4,
+   "call": "BUY",
+   "targets": [
+    1040.0
+   ],
+   "stop_loss": 925.0,
+   "period": null,
+   "broker": "Jainam",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+  },
+  {
+   "stock": "Federal Bank",
+   "cmp": 361.6,
+   "call": "BUY",
+   "targets": [
+    385.0
+   ],
+   "stop_loss": 352.0,
+   "period": "Short term",
+   "broker": "SBI Securities",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+  },
+  {
+   "stock": "Multi Commodity Exchange of India",
+   "cmp": 3617.6,
+   "call": "BUY",
+   "targets": [
+    3860.0
+   ],
+   "stop_loss": 3515.0,
+   "period": "Short term",
+   "broker": "SBI Securities",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+  },
+  {
+   "stock": "Punjab National Bank",
+   "cmp": 138.48,
+   "call": "BUY",
+   "targets": [
+    155.0,
+    160.0
+   ],
+   "stop_loss": 128.0,
+   "period": "Short-term",
+   "broker": "LKP Securities",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+  },
+  {
+   "stock": "Samvardhana Motherson International",
+   "cmp": 169.69,
+   "call": "BUY",
+   "targets": [
+    180.0
+   ],
+   "stop_loss": 161.0,
+   "period": "Short-term",
+   "broker": "LKP Securities",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
   }
  ]
 }
