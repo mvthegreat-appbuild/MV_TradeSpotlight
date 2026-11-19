@@ -73,7 +73,7 @@ def resolve(url):
             from googlenewsdecoder import gnewsdecoder
             d = gnewsdecoder(url, interval=1)
             print("  google decode:", d.get("status"), str(d.get("decoded_url") or d.get("message"))[:90])
-            return d["decoded_url"] if d.get("status") else None
+            return d.get("decoded_url")
         except Exception as e:
             print("  google decode error:", e)
             return None
@@ -121,8 +121,13 @@ def main():
     print("articles found:", len(items))
     picks = []
     rows = []
+    done = set()
     for it in items:
         url = resolve(it["link"])
+        if url and url in done:
+            continue
+        if url:
+            done.add(url)
         if not url or "moneycontrol.com" not in url:
             print("skip (no real moneycontrol link):", it["title"][:50])
             rows.append("%s | NO LINK (%s) | %s" % (it["date"], urlparse(url or it["link"]).netloc, it["title"][30:60]))
