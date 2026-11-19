@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:52:19.778221+00:00",
+ "updated": "2026-11-19T06:59:16.955158+00:00",
  "days": 10,
  "articles": 13,
  "picks": [
@@ -245,6 +245,151 @@
    "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
   },
   {
+   "stock": "General Insurance Corporation of India",
+   "cmp": 344.5,
+   "call": "BUY",
+   "targets": [
+    390.0
+   ],
+   "stop_loss": 310.0,
+   "period": null,
+   "broker": "Anand Rathi",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
+   "stock": "GE Vernova T&D India",
+   "cmp": 4337.0,
+   "call": "BUY",
+   "targets": [
+    4650.0
+   ],
+   "stop_loss": 4100.0,
+   "period": null,
+   "broker": "Anand Rathi",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Aditya Birla Real Estate",
+   "cmp": 1216.1,
+   "call": "BUY",
+   "targets": [
+    1360.0
+   ],
+   "stop_loss": 1120.0,
+   "period": "Swing",
+   "broker": "Anand Rathi",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Godrej Consumer Products Futures",
+   "cmp": 893.9,
+   "call": "BUY",
+   "targets": [
+    930.0,
+    950.0
+   ],
+   "stop_loss": 870.0,
+   "period": null,
+   "broker": "Derivatives and Quant Research a ICICI Securities",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Fortis Healthcare Futures",
+   "cmp": 802.25,
+   "call": "BUY",
+   "targets": [
+    835.0,
+    850.0
+   ],
+   "stop_loss": 775.0,
+   "period": null,
+   "broker": "Derivatives and Quant Research a ICICI Securities",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Blue Star Futures",
+   "cmp": 1630.2,
+   "call": "BUY",
+   "targets": [
+    1720.0,
+    1760.0
+   ],
+   "stop_loss": 1550.0,
+   "period": "Short-term",
+   "broker": "Derivatives and Quant Research a ICICI Securities",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
+   "stock": "KPR Mill",
+   "cmp": 1211.0,
+   "call": "BUY",
+   "targets": [
+    1260.0,
+    1300.0
+   ],
+   "stop_loss": 1160.0,
+   "period": "Swing",
+   "broker": "Retail Research at Mirae Asset ShareKhan",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Mrs Bectors Food Specialities",
+   "cmp": 219.8,
+   "call": "BUY",
+   "targets": [
+    234.0,
+    242.0
+   ],
+   "stop_loss": 209.0,
+   "period": "Swing",
+   "broker": "Retail Research at Mirae Asset ShareKhan",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Kalyan Jewellers India",
+   "cmp": 708.15,
+   "call": "BUY",
+   "targets": [
+    855.0
+   ],
+   "stop_loss": 620.0,
+   "period": null,
+   "broker": "Research at GEPL Capital",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Eternal",
+   "cmp": 371.1,
+   "call": "BUY",
+   "targets": [
+    420.0
+   ],
+   "stop_loss": 335.0,
+   "period": "Long-term",
+   "broker": "Research at GEPL Capital",
+   "date": "2026-11-17",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
+   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
+  },
+  {
    "stock": "Alicon Castalloy",
    "cmp": 976.15,
    "call": "BUY",
@@ -257,7 +402,7 @@
    "broker": "Axis Direct",
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
   },
   {
    "stock": "Ramkrishna Forgings",
@@ -272,7 +417,7 @@
    "broker": "Axis Direct",
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
   },
   {
    "stock": "Pine Labs",
@@ -287,7 +432,7 @@
    "broker": "Axis Direct",
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
   },
   {
    "stock": "Kwality Walls India",
@@ -301,7 +446,7 @@
    "broker": "Teji Mandi",
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
   },
   {
    "stock": "Lloyds Engineering Works",
@@ -315,7 +460,7 @@
    "broker": "Teji Mandi",
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
   },
   {
    "stock": "Indus Towers",
@@ -329,7 +474,7 @@
    "broker": "Teji Mandi",
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
   },
   {
    "stock": "Acutaas Chemicals",
@@ -344,22 +489,7 @@
    "broker": "Angel One",
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
-  },
-  {
-   "stock": "GE Vernova T&D India",
-   "cmp": 4420.0,
-   "call": "BUY",
-   "targets": [
-    4700.0,
-    4800.0
-   ],
-   "stop_loss": 4000.0,
-   "period": "Swing",
-   "broker": "Angel One",
-   "date": "2026-11-16",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers, GE Vernova T&D, and others on November 16?"
+   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
   },
   {
    "stock": "Phoenix Mills",
@@ -485,9 +615,9 @@
    "stop_loss": 124.0,
    "period": "Short-term",
    "broker": "Jainam",
-   "date": "2026-11-11",
+   "date": "2026-11-12",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
-   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana... - Moneycontrol.com"
   },
   {
    "stock": "Fertilizers and Chemicals Travancore",
@@ -499,9 +629,9 @@
    "stop_loss": 770.0,
    "period": "Swing",
    "broker": "Jainam",
-   "date": "2026-11-11",
+   "date": "2026-11-12",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
-   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana... - Moneycontrol.com"
   },
   {
    "stock": "Sky Gold and Diamonds",
@@ -513,9 +643,9 @@
    "stop_loss": 925.0,
    "period": null,
    "broker": "Jainam",
-   "date": "2026-11-11",
+   "date": "2026-11-12",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
-   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana... - Moneycontrol.com"
   },
   {
    "stock": "Federal Bank",
@@ -527,9 +657,9 @@
    "stop_loss": 352.0,
    "period": "Short term",
    "broker": "SBI Securities",
-   "date": "2026-11-11",
+   "date": "2026-11-12",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
-   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana... - Moneycontrol.com"
   },
   {
    "stock": "Multi Commodity Exchange of India",
@@ -541,9 +671,9 @@
    "stop_loss": 3515.0,
    "period": "Short term",
    "broker": "SBI Securities",
-   "date": "2026-11-11",
+   "date": "2026-11-12",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
-   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana... - Moneycontrol.com"
   },
   {
    "stock": "Punjab National Bank",
@@ -556,9 +686,9 @@
    "stop_loss": 128.0,
    "period": "Short-term",
    "broker": "LKP Securities",
-   "date": "2026-11-11",
+   "date": "2026-11-12",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
-   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana... - Moneycontrol.com"
   },
   {
    "stock": "Samvardhana Motherson International",
@@ -570,9 +700,187 @@
    "stop_loss": 161.0,
    "period": "Short-term",
    "broker": "LKP Securities",
-   "date": "2026-11-11",
+   "date": "2026-11-12",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
-   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana Motherson, and others on November 12?"
+   "title": "Trade Spotlight: How should you trade Devyani International, FACT, Federal Bank, MCX India, Samvardhana... - Moneycontrol.com"
+  },
+  {
+   "stock": "Amara Raja Energy and Mobility",
+   "cmp": 761.8,
+   "call": "BUY",
+   "targets": [
+    826.0
+   ],
+   "stop_loss": 720.0,
+   "period": "Short-term",
+   "broker": "Anand Rathi",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-canara-bank-mankind-pharma-amara-raja-energy-bharat-dynamics-havells-and-others-on-november-11-14076725.html",
+   "title": "Trade Spotlight: How should you trade Canara Bank, Mankind Pharma, Amara Raja Energy, Bharat Dynamics,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Havells India",
+   "cmp": 1159.5,
+   "call": "BUY",
+   "targets": [
+    1260.0
+   ],
+   "stop_loss": 1070.0,
+   "period": "Swing",
+   "broker": "Anand Rathi",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-canara-bank-mankind-pharma-amara-raja-energy-bharat-dynamics-havells-and-others-on-november-11-14076725.html",
+   "title": "Trade Spotlight: How should you trade Canara Bank, Mankind Pharma, Amara Raja Energy, Bharat Dynamics,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Abbott India",
+   "cmp": 26680.0,
+   "call": "BUY",
+   "targets": [
+    28000.0,
+    28940.0
+   ],
+   "stop_loss": 25810.0,
+   "period": null,
+   "broker": "Retail Research at Mirae Asset ShareKhan",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-canara-bank-mankind-pharma-amara-raja-energy-bharat-dynamics-havells-and-others-on-november-11-14076725.html",
+   "title": "Trade Spotlight: How should you trade Canara Bank, Mankind Pharma, Amara Raja Energy, Bharat Dynamics,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Mankind Pharma",
+   "cmp": 2668.3,
+   "call": "BUY",
+   "targets": [
+    2800.0,
+    2874.0
+   ],
+   "stop_loss": 2555.0,
+   "period": null,
+   "broker": "Retail Research at Mirae Asset ShareKhan",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-canara-bank-mankind-pharma-amara-raja-energy-bharat-dynamics-havells-and-others-on-november-11-14076725.html",
+   "title": "Trade Spotlight: How should you trade Canara Bank, Mankind Pharma, Amara Raja Energy, Bharat Dynamics,... - Moneycontrol.com"
+  },
+  {
+   "stock": "National Aluminium Company Futures",
+   "cmp": 328.45,
+   "call": "BUY",
+   "targets": [
+    340.0,
+    350.0
+   ],
+   "stop_loss": 320.0,
+   "period": "Short-term",
+   "broker": "Derivatives and Quant Research at ICICI Securities",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-canara-bank-mankind-pharma-amara-raja-energy-bharat-dynamics-havells-and-others-on-november-11-14076725.html",
+   "title": "Trade Spotlight: How should you trade Canara Bank, Mankind Pharma, Amara Raja Energy, Bharat Dynamics,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Bharat Dynamics Futures",
+   "cmp": 1110.55,
+   "call": "BUY",
+   "targets": [
+    1180.0,
+    1220.0
+   ],
+   "stop_loss": 1075.0,
+   "period": "Short-term",
+   "broker": "Derivatives and Quant Research at ICICI Securities",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-canara-bank-mankind-pharma-amara-raja-energy-bharat-dynamics-havells-and-others-on-november-11-14076725.html",
+   "title": "Trade Spotlight: How should you trade Canara Bank, Mankind Pharma, Amara Raja Energy, Bharat Dynamics,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Larsen and Toubro",
+   "cmp": 4185.0,
+   "call": "BUY",
+   "targets": [
+    4570.0
+   ],
+   "stop_loss": 4020.0,
+   "period": null,
+   "broker": "Research at GEPL Capital",
+   "date": "2026-11-11",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-canara-bank-mankind-pharma-amara-raja-energy-bharat-dynamics-havells-and-others-on-november-11-14076725.html",
+   "title": "Trade Spotlight: How should you trade Canara Bank, Mankind Pharma, Amara Raja Energy, Bharat Dynamics,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Hindalco Industries",
+   "cmp": 953.0,
+   "call": "BUY",
+   "targets": [
+    980.0,
+    1005.0,
+    1040.0
+   ],
+   "stop_loss": 910.0,
+   "period": "Short-term",
+   "broker": "Kantilal Chhaganlal Securities",
+   "date": "2026-11-09",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
+   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
+  },
+  {
+   "stock": "DCB Bank",
+   "cmp": 208.5,
+   "call": "BUY",
+   "targets": [
+    215.0,
+    222.0,
+    235.0
+   ],
+   "stop_loss": 190.0,
+   "period": "Long-term",
+   "broker": "Kantilal Chhaganlal Securities",
+   "date": "2026-11-09",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
+   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Angel One",
+   "cmp": 332.85,
+   "call": "BUY",
+   "targets": [
+    344.0,
+    360.0,
+    375.0
+   ],
+   "stop_loss": 305.0,
+   "period": null,
+   "broker": "Kantilal Chhaganlal Securities",
+   "date": "2026-11-09",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
+   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Westlife Foodworld",
+   "cmp": 663.3,
+   "call": "BUY",
+   "targets": [
+    760.0
+   ],
+   "stop_loss": 580.0,
+   "period": "249 days",
+   "broker": "Kantilal Chhaganlal Securities",
+   "date": "2026-11-09",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
+   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Shadowfax Technologies",
+   "cmp": 296.05,
+   "call": "BUY",
+   "targets": [
+    340.0
+   ],
+   "stop_loss": 280.0,
+   "period": null,
+   "broker": "Kantilal Chhaganlal Securities",
+   "date": "2026-11-09",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
+   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
   }
  ]
 }
