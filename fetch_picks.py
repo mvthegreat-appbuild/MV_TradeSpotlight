@@ -1,4 +1,5 @@
 import re, json, sys
+from urllib.parse import urlparse, parse_qs
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 import requests
@@ -7,6 +8,8 @@ from bs4 import BeautifulSoup
 DAYS = 10
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 FEEDS = [
+    "https://www.bing.com/news/search?q=%22Trade+Spotlight%22+moneycontrol&format=rss&cc=IN&setlang=en-IN",
+    "https://www.bing.com/news/search?q=%22Trade+Spotlight%22+how+should+you+trade&format=rss&cc=IN&setlang=en-IN",
     "https://www.moneycontrol.com/rss/marketreports.xml",
     "https://www.moneycontrol.com/rss/buzzingstocks.xml",
     "https://www.moneycontrol.com/rss/latestnews.xml",
@@ -61,15 +64,18 @@ def parse_article(text, meta):
 
 
 def resolve(url):
-    if "news.google.com" not in url:
-        return url
-    try:
-        from googlenewsdecoder import gnewsdecoder
-        d = gnewsdecoder(url, interval=1)
-        if d.get("status"):
-            return d["decoded_url"]
-    except Exception as e:
-        print("  decode failed:", e)
+    if "bing.com" in url and "url=" in url:
+        q = parse_qs(urlparse(url).query).get("url")
+        return q[0] if q else None
+    if "news.google.com" in url:
+        try:
+            from googlenewsdecoder import gnewsdecoder
+            d = gnewsdecoder(url, interval=1)
+            print("  google decode:", d.get("status"), str(d.get("decoded_url") or d.get("message"))[:90])
+            return d["decoded_url"] if d.get("status") else None
+        except Exception as e:
+            print("  google decode error:", e)
+            return None
     return url
 
 
@@ -106,6 +112,9 @@ def main():
     picks = []
     for it in items:
         url = resolve(it["link"])
+        if not url or "moneycontrol.com" not in url:
+            print("skip (no real moneycontrol link):", it["title"][:50])
+            continue
         try:
             r = requests.get(url, headers=UA, timeout=30)
             print(r.status_code, url[:90])
@@ -116,7 +125,7 @@ def main():
             print("  fetch error", e)
             continue
         got = parse_article(text, {**it, "link": url})
-        print("  picks:", len(got))
+        print("  picks:", len(got), "| chars:", len(text), "| has CMP:", "CMP" in text, "| has Strategy:", "Strategy" in text)
         picks += got
     best = {}
     for p in sorted(picks, key=lambda x: x["date"], reverse=True):
