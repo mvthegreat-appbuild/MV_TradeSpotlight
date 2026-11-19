@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T06:59:16.955158+00:00",
+ "updated": "2026-11-19T13:17:23.837933+00:00",
  "days": 10,
- "articles": 13,
+ "articles": 12,
  "picks": [
   {
    "stock": "State Bank of India",
@@ -805,82 +805,6 @@
    "date": "2026-11-11",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-canara-bank-mankind-pharma-amara-raja-energy-bharat-dynamics-havells-and-others-on-november-11-14076725.html",
    "title": "Trade Spotlight: How should you trade Canara Bank, Mankind Pharma, Amara Raja Energy, Bharat Dynamics,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Hindalco Industries",
-   "cmp": 953.0,
-   "call": "BUY",
-   "targets": [
-    980.0,
-    1005.0,
-    1040.0
-   ],
-   "stop_loss": 910.0,
-   "period": "Short-term",
-   "broker": "Kantilal Chhaganlal Securities",
-   "date": "2026-11-09",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
-   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
-  },
-  {
-   "stock": "DCB Bank",
-   "cmp": 208.5,
-   "call": "BUY",
-   "targets": [
-    215.0,
-    222.0,
-    235.0
-   ],
-   "stop_loss": 190.0,
-   "period": "Long-term",
-   "broker": "Kantilal Chhaganlal Securities",
-   "date": "2026-11-09",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
-   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Angel One",
-   "cmp": 332.85,
-   "call": "BUY",
-   "targets": [
-    344.0,
-    360.0,
-    375.0
-   ],
-   "stop_loss": 305.0,
-   "period": null,
-   "broker": "Kantilal Chhaganlal Securities",
-   "date": "2026-11-09",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
-   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Westlife Foodworld",
-   "cmp": 663.3,
-   "call": "BUY",
-   "targets": [
-    760.0
-   ],
-   "stop_loss": 580.0,
-   "period": "249 days",
-   "broker": "Kantilal Chhaganlal Securities",
-   "date": "2026-11-09",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
-   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Shadowfax Technologies",
-   "cmp": 296.05,
-   "call": "BUY",
-   "targets": [
-    340.0
-   ],
-   "stop_loss": 280.0,
-   "period": null,
-   "broker": "Kantilal Chhaganlal Securities",
-   "date": "2026-11-09",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hindalco-dcb-bank-angel-one-international-gemological-institute-westlife-foodworld-and-others-on-november-9-14075126.html",
-   "title": "Trade Spotlight: How should you trade Hindalco, DCB Bank, Angel One, International Gemological Institute,... - Moneycontrol.com"
   }
  ]
 }
