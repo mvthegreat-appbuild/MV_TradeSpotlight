@@ -1,8 +1,123 @@
 {
- "updated": "2026-11-19T14:30:24.727028+00:00",
+ "updated": "2026-11-20T10:12:52.897356+00:00",
  "days": 10,
- "articles": 12,
+ "articles": 14,
  "picks": [
+  {
+   "stock": "TVS Motor Company",
+   "cmp": 4601.4,
+   "call": "BUY",
+   "targets": [
+    5100.0
+   ],
+   "stop_loss": 4360.0,
+   "period": "Long-term",
+   "broker": "Choice Broking",
+   "date": "2026-11-19",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
+   "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
+  },
+  {
+   "stock": "Quess Corp",
+   "cmp": 347.2,
+   "call": "BUY",
+   "targets": [
+    390.0
+   ],
+   "stop_loss": 324.0,
+   "period": null,
+   "broker": "Choice Broking",
+   "date": "2026-11-19",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
+   "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
+  },
+  {
+   "stock": "Gabriel India",
+   "cmp": 1585.1,
+   "call": "BUY",
+   "targets": [
+    1800.0
+   ],
+   "stop_loss": 1480.0,
+   "period": null,
+   "broker": "Choice Broking",
+   "date": "2026-11-19",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
+   "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
+  },
+  {
+   "stock": "Avenue Supermarts",
+   "cmp": 3500.0,
+   "call": "BUY",
+   "targets": [
+    3720.0
+   ],
+   "stop_loss": 3380.0,
+   "period": null,
+   "broker": "Choice Broking",
+   "date": "2026-11-19",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
+   "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
+  },
+  {
+   "stock": "Bharat Electronics",
+   "cmp": 404.2,
+   "call": "BUY",
+   "targets": [
+    430.0
+   ],
+   "stop_loss": 387.0,
+   "period": null,
+   "broker": "Choice Broking",
+   "date": "2026-11-19",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
+   "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
+  },
+  {
+   "stock": "Indian Railway Finance Corporation",
+   "cmp": 84.26,
+   "call": "BUY",
+   "targets": [
+    88.5,
+    92.0
+   ],
+   "stop_loss": 79.54,
+   "period": null,
+   "broker": "JM Financial Services",
+   "date": "2026-11-19",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
+   "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
+  },
+  {
+   "stock": "Pidilite Industries",
+   "cmp": 1580.5,
+   "call": "BUY",
+   "targets": [
+    1698.0,
+    1750.0
+   ],
+   "stop_loss": 1500.0,
+   "period": null,
+   "broker": "JM Financial Services",
+   "date": "2026-11-19",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
+   "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
+  },
+  {
+   "stock": "Gujarat Fluorochemicals",
+   "cmp": 4978.6,
+   "call": "BUY",
+   "targets": [
+    5465.0,
+    5640.0
+   ],
+   "stop_loss": 4530.0,
+   "period": "7 months",
+   "broker": "JM Financial Services",
+   "date": "2026-11-19",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
+   "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
+  },
   {
    "stock": "State Bank of India",
    "cmp": 1135.0,
@@ -138,11 +253,11 @@
     1530.0
    ],
    "stop_loss": 1375.0,
-   "period": "9 months",
+   "period": null,
    "broker": "Waves Strategy Advisors",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
-   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
+   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
   },
   {
    "stock": "Adani Energy Solutions",
@@ -155,9 +270,9 @@
    "stop_loss": 1420.0,
    "period": "Swing",
    "broker": "Waves Strategy Advisors",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
-   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
+   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
   },
   {
    "stock": "Honasa Consumer",
@@ -170,9 +285,9 @@
    "stop_loss": 500.0,
    "period": "Swing",
    "broker": "Waves Strategy Advisors",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
-   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
+   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
   },
   {
    "stock": "International Gemological Institute",
@@ -184,9 +299,9 @@
    "stop_loss": 420.0,
    "period": "20 months",
    "broker": "Renaissance",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
-   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
+   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
   },
   {
    "stock": "Coforge",
@@ -198,9 +313,9 @@
    "stop_loss": 1930.0,
    "period": null,
    "broker": "Renaissance",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
-   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
+   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
   },
   {
    "stock": "Hyundai Motor India",
@@ -212,9 +327,9 @@
    "stop_loss": 2050.0,
    "period": null,
    "broker": "Kotak Neo",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
-   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
+   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
   },
   {
    "stock": "Coromandel International",
@@ -226,9 +341,9 @@
    "stop_loss": 1905.0,
    "period": "Short-term",
    "broker": "Kotak Neo",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
-   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
+   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
   },
   {
    "stock": "Canara Bank",
@@ -240,9 +355,9 @@
    "stop_loss": 130.0,
    "period": "Positional",
    "broker": "Kotak Neo",
-   "date": "2026-11-17",
+   "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
-   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International Gemological Institute, Hyundai Motor, and others on November 18?"
+   "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
   },
   {
    "stock": "General Insurance Corporation of India",
@@ -252,7 +367,7 @@
     390.0
    ],
    "stop_loss": 310.0,
-   "period": "9 months",
+   "period": null,
    "broker": "Anand Rathi",
    "date": "2026-11-17",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
@@ -499,7 +614,7 @@
     2550.0
    ],
    "stop_loss": 2158.0,
-   "period": "9 months",
+   "period": null,
    "broker": "Choice Broking",
    "date": "2026-11-13",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
@@ -599,7 +714,7 @@
     590.0
    ],
    "stop_loss": 472.0,
-   "period": null,
+   "period": "7 months",
    "broker": "JM Financial Services",
    "date": "2026-11-13",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
@@ -613,7 +728,7 @@
     145.0
    ],
    "stop_loss": 124.0,
-   "period": "9 months",
+   "period": "Short-term",
    "broker": "Jainam",
    "date": "2026-11-12",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-devyani-international-fact-federal-bank-mcx-india-samvardhana-motherson-and-others-on-november-12-14077767.html",
@@ -800,7 +915,7 @@
     4570.0
    ],
    "stop_loss": 4020.0,
-   "period": null,
+   "period": "7 months",
    "broker": "Research at GEPL Capital",
    "date": "2026-11-11",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-canara-bank-mankind-pharma-amara-raja-energy-bharat-dynamics-havells-and-others-on-november-11-14076725.html",
