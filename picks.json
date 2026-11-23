@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:10:14.823359+00:00",
+ "updated": "2026-11-23T04:43:35.996333+00:00",
  "days": 10,
  "articles": 12,
  "picks": [
@@ -84,8 +84,52 @@
     945.0
    ],
    "stop_loss": 890.0,
-   "period": "3 days",
+   "period": "10 trading sessions",
    "broker": "Teji Mandi",
+   "date": "2026-11-22",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+  },
+  {
+   "stock": "Fortis Healthcare",
+   "cmp": 825.0,
+   "call": "BUY",
+   "targets": [
+    900.0,
+    925.0
+   ],
+   "stop_loss": 760.0,
+   "period": null,
+   "broker": "Angel One",
+   "date": "2026-11-22",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+  },
+  {
+   "stock": "Bajaj Finserv",
+   "cmp": 1892.0,
+   "call": "BUY",
+   "targets": [
+    2000.0
+   ],
+   "stop_loss": 1810.0,
+   "period": null,
+   "broker": "Angel One",
+   "date": "2026-11-22",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+  },
+  {
+   "stock": "Nestle India",
+   "cmp": 1325.0,
+   "call": "BUY",
+   "targets": [
+    1400.0,
+    1420.0
+   ],
+   "stop_loss": 1240.0,
+   "period": "3 days",
+   "broker": "Angel One",
    "date": "2026-11-22",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
    "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
