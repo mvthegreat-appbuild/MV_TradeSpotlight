@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T04:43:35.996333+00:00",
+ "updated": "2026-11-23T14:38:45.076492+00:00",
  "days": 10,
- "articles": 12,
+ "articles": 11,
  "picks": [
   {
    "stock": "Federal Bank",
@@ -28,7 +28,7 @@
    ],
    "stop_loss": 320.0,
    "period": null,
-   "broker": "F&O expiry",
+   "broker": "Axis Direct",
    "date": "2026-11-22",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
    "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
@@ -43,7 +43,7 @@
    ],
    "stop_loss": 11400.0,
    "period": null,
-   "broker": "F&O expiry",
+   "broker": "Axis Direct",
    "date": "2026-11-22",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
    "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
@@ -128,7 +128,7 @@
     1420.0
    ],
    "stop_loss": 1240.0,
-   "period": "3 days",
+   "period": "Swing",
    "broker": "Angel One",
    "date": "2026-11-22",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
@@ -157,7 +157,7 @@
    ],
    "stop_loss": 324.0,
    "period": null,
-   "broker": "F&O expiry",
+   "broker": "Choice Broking",
    "date": "2026-11-19",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
    "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
@@ -171,7 +171,7 @@
    ],
    "stop_loss": 1480.0,
    "period": null,
-   "broker": "F&O expiry",
+   "broker": "Choice Broking",
    "date": "2026-11-19",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
    "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
@@ -185,7 +185,7 @@
    ],
    "stop_loss": 3380.0,
    "period": null,
-   "broker": "F&O expiry",
+   "broker": "Choice Broking",
    "date": "2026-11-19",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
    "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
@@ -199,7 +199,7 @@
    ],
    "stop_loss": 387.0,
    "period": null,
-   "broker": "F&O expiry",
+   "broker": "Choice Broking",
    "date": "2026-11-19",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
    "title": "Trade Spotlight: How should you trade TVS Motor, Quess Corp, Avenue Supermarts, Gujarat Fluorochemicals, Pidilite Industries, and others on November 20?"
@@ -243,7 +243,7 @@
     5640.0
    ],
    "stop_loss": 4530.0,
-   "period": "3 days",
+   "period": "Swing",
    "broker": "JM Financial Services",
    "date": "2026-11-19",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
@@ -272,7 +272,7 @@
    ],
    "stop_loss": 874.0,
    "period": "Swing",
-   "broker": "F&O expiry",
+   "broker": "LKP Securities",
    "date": "2026-11-19",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-state-bank-of-india-indraprastha-gas-bank-of-baroda-vijaya-diagnostic-centre-prestige-estates-and-others-on-november-19-14084108.html",
    "title": "Trade Spotlight: How should you trade State Bank of India, Indraprastha Gas, Bank of Baroda, Vijaya... - Moneycontrol.com"
@@ -286,7 +286,7 @@
    ],
    "stop_loss": 142.0,
    "period": null,
-   "broker": "F&O expiry",
+   "broker": "LKP Securities",
    "date": "2026-11-19",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-state-bank-of-india-indraprastha-gas-bank-of-baroda-vijaya-diagnostic-centre-prestige-estates-and-others-on-november-19-14084108.html",
    "title": "Trade Spotlight: How should you trade State Bank of India, Indraprastha Gas, Bank of Baroda, Vijaya... - Moneycontrol.com"
@@ -400,7 +400,7 @@
    ],
    "stop_loss": 1420.0,
    "period": "Swing",
-   "broker": "F&O expiry",
+   "broker": "Waves Strategy Advisors",
    "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
    "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
@@ -415,7 +415,7 @@
    ],
    "stop_loss": 500.0,
    "period": "Swing",
-   "broker": "F&O expiry",
+   "broker": "Waves Strategy Advisors",
    "date": "2026-11-18",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-deepak-fertilisers-adani-energy-honasa-consumer-international-gemological-institute-hyundai-motor-and-others-on-november-18-14082995.html",
    "title": "Trade Spotlight: How should you trade Deepak Fertilisers, Adani Energy, Honasa Consumer, International... - Moneycontrol.com"
@@ -499,7 +499,7 @@
    ],
    "stop_loss": 4100.0,
    "period": null,
-   "broker": "F&O expiry",
+   "broker": "Anand Rathi",
    "date": "2026-11-17",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
    "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
@@ -513,7 +513,7 @@
    ],
    "stop_loss": 1120.0,
    "period": "Swing",
-   "broker": "F&O expiry",
+   "broker": "Anand Rathi",
    "date": "2026-11-17",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
    "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
@@ -646,7 +646,7 @@
    ],
    "stop_loss": 745.0,
    "period": "4-5 months",
-   "broker": "F&O expiry",
+   "broker": "Axis Direct",
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
    "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
@@ -661,7 +661,7 @@
    ],
    "stop_loss": 165.0,
    "period": null,
-   "broker": "F&O expiry",
+   "broker": "Axis Direct",
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
    "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
@@ -722,120 +722,6 @@
    "date": "2026-11-16",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
    "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Phoenix Mills",
-   "cmp": 2292.0,
-   "call": "BUY",
-   "targets": [
-    2550.0
-   ],
-   "stop_loss": 2158.0,
-   "period": null,
-   "broker": "Choice Broking",
-   "date": "2026-11-13",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
-   "title": "Trade Spotlight: How should you trade Phoenix Mills, Paytm, Radico Khaitan, JK Tyre, Marksans Pharma, and... - Moneycontrol.com"
-  },
-  {
-   "stock": "One 97 Communications Paytm",
-   "cmp": 1925.0,
-   "call": "BUY",
-   "targets": [
-    2130.0
-   ],
-   "stop_loss": 1825.0,
-   "period": null,
-   "broker": "F&O expiry",
-   "date": "2026-11-13",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
-   "title": "Trade Spotlight: How should you trade Phoenix Mills, Paytm, Radico Khaitan, JK Tyre, Marksans Pharma, and... - Moneycontrol.com"
-  },
-  {
-   "stock": "Radico Khaitan",
-   "cmp": 4638.2,
-   "call": "BUY",
-   "targets": [
-    5100.0
-   ],
-   "stop_loss": 4400.0,
-   "period": null,
-   "broker": "F&O expiry",
-   "date": "2026-11-13",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
-   "title": "Trade Spotlight: How should you trade Phoenix Mills, Paytm, Radico Khaitan, JK Tyre, Marksans Pharma, and... - Moneycontrol.com"
-  },
-  {
-   "stock": "JK Tyre and Industries",
-   "cmp": 365.95,
-   "call": "BUY",
-   "targets": [
-    405.0
-   ],
-   "stop_loss": 345.0,
-   "period": "Long-term",
-   "broker": "F&O expiry",
-   "date": "2026-11-13",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
-   "title": "Trade Spotlight: How should you trade Phoenix Mills, Paytm, Radico Khaitan, JK Tyre, Marksans Pharma, and... - Moneycontrol.com"
-  },
-  {
-   "stock": "Marksans Pharma",
-   "cmp": 320.0,
-   "call": "BUY",
-   "targets": [
-    348.0
-   ],
-   "stop_loss": 305.0,
-   "period": null,
-   "broker": "F&O expiry",
-   "date": "2026-11-13",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
-   "title": "Trade Spotlight: How should you trade Phoenix Mills, Paytm, Radico Khaitan, JK Tyre, Marksans Pharma, and... - Moneycontrol.com"
-  },
-  {
-   "stock": "Brigade Enterprises",
-   "cmp": 560.7,
-   "call": "BUY",
-   "targets": [
-    600.0
-   ],
-   "stop_loss": 538.0,
-   "period": null,
-   "broker": "F&O expiry",
-   "date": "2026-11-13",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
-   "title": "Trade Spotlight: How should you trade Phoenix Mills, Paytm, Radico Khaitan, JK Tyre, Marksans Pharma, and... - Moneycontrol.com"
-  },
-  {
-   "stock": "GMR Airports",
-   "cmp": 100.1,
-   "call": "BUY",
-   "targets": [
-    106.5,
-    114.0
-   ],
-   "stop_loss": 94.7,
-   "period": null,
-   "broker": "JM Financial Services",
-   "date": "2026-11-13",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
-   "title": "Trade Spotlight: How should you trade Phoenix Mills, Paytm, Radico Khaitan, JK Tyre, Marksans Pharma, and... - Moneycontrol.com"
-  },
-  {
-   "stock": "JSW Energy",
-   "cmp": 519.65,
-   "call": "BUY",
-   "targets": [
-    565.0,
-    590.0
-   ],
-   "stop_loss": 472.0,
-   "period": "3 days",
-   "broker": "JM Financial Services",
-   "date": "2026-11-13",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-phoenix-mills-paytm-radico-khaitan-jk-tyre-marksans-pharma-and-others-on-november-13-14078916.html",
-   "title": "Trade Spotlight: How should you trade Phoenix Mills, Paytm, Radico Khaitan, JK Tyre, Marksans Pharma, and... - Moneycontrol.com"
   }
  ]
 }
