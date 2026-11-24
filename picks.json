@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T04:36:23.618853+00:00",
+ "updated": "2026-11-24T14:34:50.754640+00:00",
  "days": 10,
- "articles": 10,
+ "articles": 11,
  "picks": [
   {
    "stock": "Federal Bank",
@@ -128,7 +128,7 @@
     1420.0
    ],
    "stop_loss": 1240.0,
-   "period": "Swing",
+   "period": null,
    "broker": "Angel One",
    "date": "2026-11-22",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
@@ -243,7 +243,7 @@
     5640.0
    ],
    "stop_loss": 4530.0,
-   "period": "Swing",
+   "period": null,
    "broker": "JM Financial Services",
    "date": "2026-11-19",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tvs-motor-quess-corp-avenue-supermarts-gujarat-fluorochemicals-pidilite-industries-and-others-on-november-20-14085294.html",
