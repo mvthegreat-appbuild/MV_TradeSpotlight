@@ -1,8 +1,8 @@
 name: Update picks
 on:
   schedule:
-    - cron: "30 3 * * 1-5"
-    - cron: "30 13 * * 1-5"
+    # Every day at 8:00 AM India time
+    - cron: "30 2 * * *"
   workflow_dispatch:
 permissions:
   contents: write
