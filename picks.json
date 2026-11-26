@@ -1,8 +1,106 @@
 {
- "updated": "2026-11-25T05:21:39.751178+00:00",
+ "updated": "2026-11-26T03:30:06.780829+00:00",
  "days": 10,
- "articles": 13,
+ "articles": 12,
  "picks": [
+  {
+   "stock": "InterGlobe Aviation",
+   "cmp": 5720.0,
+   "call": "BUY",
+   "targets": [
+    6000.0
+   ],
+   "stop_loss": 5550.0,
+   "period": "Swing",
+   "broker": "LKP Securities",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hero-motocorp-interglobe-aviation-eternal-belrise-industries-endurance-technologies-and-others-on-november-26-14089244.html",
+   "title": "Trade Spotlight: How should you trade Hero MotoCorp, InterGlobe Aviation, Eternal, Belrise Industries,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Hero MotoCorp",
+   "cmp": 5751.5,
+   "call": "BUY",
+   "targets": [
+    6200.0
+   ],
+   "stop_loss": 5580.0,
+   "period": null,
+   "broker": "LKP Securities",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hero-motocorp-interglobe-aviation-eternal-belrise-industries-endurance-technologies-and-others-on-november-26-14089244.html",
+   "title": "Trade Spotlight: How should you trade Hero MotoCorp, InterGlobe Aviation, Eternal, Belrise Industries,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Eternal",
+   "cmp": 371.7,
+   "call": "BUY",
+   "targets": [
+    393.0
+   ],
+   "stop_loss": 352.0,
+   "period": null,
+   "broker": "LKP Securities",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hero-motocorp-interglobe-aviation-eternal-belrise-industries-endurance-technologies-and-others-on-november-26-14089244.html",
+   "title": "Trade Spotlight: How should you trade Hero MotoCorp, InterGlobe Aviation, Eternal, Belrise Industries,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Belrise Industries",
+   "cmp": 241.68,
+   "call": "BUY",
+   "targets": [
+    262.0
+   ],
+   "stop_loss": 232.0,
+   "period": "Short-term",
+   "broker": "SBI Securities",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hero-motocorp-interglobe-aviation-eternal-belrise-industries-endurance-technologies-and-others-on-november-26-14089244.html",
+   "title": "Trade Spotlight: How should you trade Hero MotoCorp, InterGlobe Aviation, Eternal, Belrise Industries,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Endurance Technologies",
+   "cmp": 2642.2,
+   "call": "BUY",
+   "targets": [
+    2780.0
+   ],
+   "stop_loss": 2530.0,
+   "period": "Swing",
+   "broker": "Jainam",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hero-motocorp-interglobe-aviation-eternal-belrise-industries-endurance-technologies-and-others-on-november-26-14089244.html",
+   "title": "Trade Spotlight: How should you trade Hero MotoCorp, InterGlobe Aviation, Eternal, Belrise Industries,... - Moneycontrol.com"
+  },
+  {
+   "stock": "Welspun Living",
+   "cmp": 276.55,
+   "call": "BUY",
+   "targets": [
+    300.0
+   ],
+   "stop_loss": 258.0,
+   "period": null,
+   "broker": "Jainam",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hero-motocorp-interglobe-aviation-eternal-belrise-industries-endurance-technologies-and-others-on-november-26-14089244.html",
+   "title": "Trade Spotlight: How should you trade Hero MotoCorp, InterGlobe Aviation, Eternal, Belrise Industries,... - Moneycontrol.com"
+  },
+  {
+   "stock": "EIH",
+   "cmp": 340.25,
+   "call": "BUY",
+   "targets": [
+    360.0
+   ],
+   "stop_loss": 325.0,
+   "period": "Swing",
+   "broker": "Jainam",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-hero-motocorp-interglobe-aviation-eternal-belrise-industries-endurance-technologies-and-others-on-november-26-14089244.html",
+   "title": "Trade Spotlight: How should you trade Hero MotoCorp, InterGlobe Aviation, Eternal, Belrise Industries,... - Moneycontrol.com"
+  },
   {
    "stock": "Coforge Futures",
    "cmp": 2116.1,
@@ -172,21 +270,6 @@
     400.0
    ],
    "stop_loss": 361.0,
-   "period": null,
-   "broker": "Axis Direct",
-   "date": "2026-11-22",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
-   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
-  },
-  {
-   "stock": "EIH",
-   "cmp": 334.15,
-   "call": "BUY",
-   "targets": [
-    350.0,
-    370.0
-   ],
-   "stop_loss": 320.0,
    "period": null,
    "broker": "Axis Direct",
    "date": "2026-11-22",
@@ -752,122 +835,6 @@
    "date": "2026-11-17",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
    "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Eternal",
-   "cmp": 371.1,
-   "call": "BUY",
-   "targets": [
-    420.0
-   ],
-   "stop_loss": 335.0,
-   "period": "Long-term",
-   "broker": "Research at GEPL Capital",
-   "date": "2026-11-17",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-general-insurance-corp-aditya-birla-real-estate-godrej-consumer-fortis-healthcare-kpr-mill-and-others-on-november-17-14081798.html",
-   "title": "Trade Spotlight: How should you trade General Insurance Corp, Aditya Birla Real Estate, Godrej Consumer,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Alicon Castalloy",
-   "cmp": 976.15,
-   "call": "BUY",
-   "targets": [
-    1100.0,
-    1180.0
-   ],
-   "stop_loss": 900.0,
-   "period": "3-5 weeks",
-   "broker": "Axis Direct",
-   "date": "2026-11-16",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Ramkrishna Forgings",
-   "cmp": 784.7,
-   "call": "BUY",
-   "targets": [
-    850.0,
-    900.0
-   ],
-   "stop_loss": 745.0,
-   "period": "4-5 months",
-   "broker": "Axis Direct",
-   "date": "2026-11-16",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Pine Labs",
-   "cmp": 176.44,
-   "call": "BUY",
-   "targets": [
-    195.0,
-    205.0
-   ],
-   "stop_loss": 165.0,
-   "period": null,
-   "broker": "Axis Direct",
-   "date": "2026-11-16",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Kwality Walls India",
-   "cmp": 42.01,
-   "call": "BUY",
-   "targets": [
-    48.3
-   ],
-   "stop_loss": 39.5,
-   "period": null,
-   "broker": "Teji Mandi",
-   "date": "2026-11-16",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Lloyds Engineering Works",
-   "cmp": 89.25,
-   "call": "BUY",
-   "targets": [
-    96.0
-   ],
-   "stop_loss": 86.5,
-   "period": null,
-   "broker": "Teji Mandi",
-   "date": "2026-11-16",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Indus Towers",
-   "cmp": 396.0,
-   "call": "BUY",
-   "targets": [
-    425.0
-   ],
-   "stop_loss": 385.0,
-   "period": null,
-   "broker": "Teji Mandi",
-   "date": "2026-11-16",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
-  },
-  {
-   "stock": "Acutaas Chemicals",
-   "cmp": 4039.1,
-   "call": "BUY",
-   "targets": [
-    4500.0,
-    4530.0
-   ],
-   "stop_loss": 3768.0,
-   "period": "Swing",
-   "broker": "Angel One",
-   "date": "2026-11-16",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-alicon-castalloy-ramkrishna-forgings-kwality-walls-indus-towers-ge-vernova-t-d-and-others-on-november-16-14080744.html",
-   "title": "Trade Spotlight: How should you trade Alicon Castalloy, Ramkrishna Forgings, Kwality Walls, Indus Towers,... - Moneycontrol.com"
   }
  ]
 }
