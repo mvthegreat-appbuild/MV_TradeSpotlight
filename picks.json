@@ -1,8 +1,134 @@
 {
- "updated": "2026-11-27T02:54:38.701519+00:00",
+ "updated": "2026-11-27T03:22:14.150243+00:00",
  "days": 10,
- "articles": 13,
+ "articles": 15,
  "picks": [
+  {
+   "stock": "Mahindra and Mahindra",
+   "cmp": 3487.5,
+   "call": "BUY",
+   "targets": [
+    4000.0
+   ],
+   "stop_loss": 3200.0,
+   "period": "Positional",
+   "broker": "Spark Capital PWM",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tcs-sportking-india-lodha-developers-torrent-pharma-sbi-life-insurance-and-others-on-november-27-14089986.html",
+   "title": "Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?"
+  },
+  {
+   "stock": "Sportking India",
+   "cmp": 230.78,
+   "call": "BUY",
+   "targets": [
+    270.0
+   ],
+   "stop_loss": 215.0,
+   "period": null,
+   "broker": "Spark Capital PWM",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tcs-sportking-india-lodha-developers-torrent-pharma-sbi-life-insurance-and-others-on-november-27-14089986.html",
+   "title": "Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?"
+  },
+  {
+   "stock": "Poonawalla Fincorp",
+   "cmp": 508.6,
+   "call": "BUY",
+   "targets": [
+    580.0
+   ],
+   "stop_loss": 480.0,
+   "period": null,
+   "broker": "Spark Capital PWM",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tcs-sportking-india-lodha-developers-torrent-pharma-sbi-life-insurance-and-others-on-november-27-14089986.html",
+   "title": "Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?"
+  },
+  {
+   "stock": "Lodha Developers",
+   "cmp": 1261.2,
+   "call": "BUY",
+   "targets": [
+    1400.0
+   ],
+   "stop_loss": 1195.0,
+   "period": null,
+   "broker": "Choice Broking",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tcs-sportking-india-lodha-developers-torrent-pharma-sbi-life-insurance-and-others-on-november-27-14089986.html",
+   "title": "Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?"
+  },
+  {
+   "stock": "Tata Consultancy Services",
+   "cmp": 2640.3,
+   "call": "BUY",
+   "targets": [
+    2900.0
+   ],
+   "stop_loss": 2500.0,
+   "period": null,
+   "broker": "Choice Broking",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tcs-sportking-india-lodha-developers-torrent-pharma-sbi-life-insurance-and-others-on-november-27-14089986.html",
+   "title": "Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?"
+  },
+  {
+   "stock": "Torrent Pharmaceuticals",
+   "cmp": 5019.0,
+   "call": "BUY",
+   "targets": [
+    5500.0
+   ],
+   "stop_loss": 4770.0,
+   "period": null,
+   "broker": "Choice Broking",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tcs-sportking-india-lodha-developers-torrent-pharma-sbi-life-insurance-and-others-on-november-27-14089986.html",
+   "title": "Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?"
+  },
+  {
+   "stock": "SBI Life Insurance Company",
+   "cmp": 1842.3,
+   "call": "BUY",
+   "targets": [
+    1920.0
+   ],
+   "stop_loss": 1780.0,
+   "period": null,
+   "broker": "Samco Securities",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tcs-sportking-india-lodha-developers-torrent-pharma-sbi-life-insurance-and-others-on-november-27-14089986.html",
+   "title": "Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?"
+  },
+  {
+   "stock": "Swiggy",
+   "cmp": 182.93,
+   "call": "BUY",
+   "targets": [
+    198.0
+   ],
+   "stop_loss": 173.0,
+   "period": null,
+   "broker": "Samco Securities",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tcs-sportking-india-lodha-developers-torrent-pharma-sbi-life-insurance-and-others-on-november-27-14089986.html",
+   "title": "Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?"
+  },
+  {
+   "stock": "Aegis Logistics",
+   "cmp": 1211.2,
+   "call": "BUY",
+   "targets": [
+    1310.0
+   ],
+   "stop_loss": 1160.0,
+   "period": null,
+   "broker": "Samco Securities",
+   "date": "2026-11-26",
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-tcs-sportking-india-lodha-developers-torrent-pharma-sbi-life-insurance-and-others-on-november-27-14089986.html",
+   "title": "Trade Spotlight: How should you trade TCS, Sportking India, Lodha Developers, Torrent Pharma, SBI Life Insurance, and others on November 27?"
+  },
   {
    "stock": "InterGlobe Aviation",
    "cmp": 5720.0,
@@ -272,9 +398,9 @@
    "stop_loss": 361.0,
    "period": null,
    "broker": "Axis Direct",
-   "date": "2026-11-22",
+   "date": "2026-11-23",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
-   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian... - Moneycontrol.com"
   },
   {
    "stock": "Bajaj Holdings and Investment",
@@ -287,9 +413,9 @@
    "stop_loss": 11400.0,
    "period": null,
    "broker": "Axis Direct",
-   "date": "2026-11-22",
+   "date": "2026-11-23",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
-   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian... - Moneycontrol.com"
   },
   {
    "stock": "Power Grid Corporation of India",
@@ -301,9 +427,9 @@
    "stop_loss": 262.0,
    "period": null,
    "broker": "Teji Mandi",
-   "date": "2026-11-22",
+   "date": "2026-11-23",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
-   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian... - Moneycontrol.com"
   },
   {
    "stock": "Coromandel International",
@@ -315,9 +441,9 @@
    "stop_loss": 1960.0,
    "period": null,
    "broker": "Teji Mandi",
-   "date": "2026-11-22",
+   "date": "2026-11-23",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
-   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian... - Moneycontrol.com"
   },
   {
    "stock": "Indian Hotels Company",
@@ -329,9 +455,9 @@
    "stop_loss": 890.0,
    "period": "10 trading sessions",
    "broker": "Teji Mandi",
-   "date": "2026-11-22",
+   "date": "2026-11-23",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
-   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian... - Moneycontrol.com"
   },
   {
    "stock": "Fortis Healthcare",
@@ -344,9 +470,9 @@
    "stop_loss": 760.0,
    "period": null,
    "broker": "Angel One",
-   "date": "2026-11-22",
+   "date": "2026-11-23",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
-   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian... - Moneycontrol.com"
   },
   {
    "stock": "Bajaj Finserv",
@@ -358,9 +484,9 @@
    "stop_loss": 1810.0,
    "period": null,
    "broker": "Angel One",
-   "date": "2026-11-22",
+   "date": "2026-11-23",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
-   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian... - Moneycontrol.com"
   },
   {
    "stock": "Nestle India",
@@ -373,9 +499,9 @@
    "stop_loss": 1240.0,
    "period": null,
    "broker": "Angel One",
-   "date": "2026-11-22",
+   "date": "2026-11-23",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-power-grid-corporation-federal-bank-eih-bajaj-holdings-indian-hotels-and-others-on-november-23-14086788.html",
-   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian Hotels, and others on November 23?"
+   "title": "Trade Spotlight: How should you trade Power Grid Corporation, Federal Bank, EIH, Bajaj Holdings, Indian... - Moneycontrol.com"
   },
   {
    "stock": "TVS Motor Company",
@@ -585,20 +711,6 @@
    ],
    "stop_loss": 119.5,
    "period": null,
-   "broker": "Jainam",
-   "date": "2026-11-19",
-   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-state-bank-of-india-indraprastha-gas-bank-of-baroda-vijaya-diagnostic-centre-prestige-estates-and-others-on-november-19-14084108.html",
-   "title": "Trade Spotlight: How should you trade State Bank of India, Indraprastha Gas, Bank of Baroda, Vijaya... - Moneycontrol.com"
-  },
-  {
-   "stock": "Poonawalla Fincorp",
-   "cmp": 501.35,
-   "call": "BUY",
-   "targets": [
-    525.0
-   ],
-   "stop_loss": 480.0,
-   "period": "Swing",
    "broker": "Jainam",
    "date": "2026-11-19",
    "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-state-bank-of-india-indraprastha-gas-bank-of-baroda-vijaya-diagnostic-centre-prestige-estates-and-others-on-november-19-14084108.html",
